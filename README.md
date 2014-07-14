@@ -8,6 +8,7 @@ After about 5 minutes a reading of the sensor should show. If it is 0 uS/H the s
 After about 10 minutes the first data is send and a message on the display should read "send OK".
 
 Based on work done by Kalin, Lionel and Robin 
+
 Contact information email rob@yr-design.biz
 
 THIS IS A WORK IN PROGRESS
