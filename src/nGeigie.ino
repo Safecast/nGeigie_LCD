@@ -53,7 +53,7 @@ static char buf[LINE_SZ];
 
 // Event flag signals when a geiger event has occurred
 	volatile unsigned char eventFlag = 0;		// FIXME: Can we get rid of eventFlag and use counts>0?
-	int counts_per_sample;
+	unsigned long counts_per_sample;
 
 // The last connection time to disconnect from the server
 // after uploaded feeds
